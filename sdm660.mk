@@ -609,8 +609,7 @@ $(call inherit-product, vendor/qcom/opensource/vibrator/vibrator-vendor-product.
 # VNDK
 PRODUCT_PACKAGES += \
     libdng_sdk.vendor_32 \
-    libstdc++_vendor \
-    com.android.vndk.current.on_vendor
+    libstdc++_vendor
 
 # WiFi
 PRODUCT_PACKAGES += \
