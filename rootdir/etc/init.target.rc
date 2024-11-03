@@ -553,10 +553,6 @@ on property:sys.boot_completed=1
 on property:sys.camera.miui.apk=*
     setprop vendor.camera.miui.apk ${sys.camera.miui.apk}
 
-on property:sys.boot_completed=1 && property:ro.boot.fpsensor=gdx
-    # stop fps_hal
-    stop vendor.fps_hal
-
 # Setup final cpu.uclamp
 on property:sys.boot_completed=1
     write /dev/cpuctl/background/cpu.uclamp.max 70
