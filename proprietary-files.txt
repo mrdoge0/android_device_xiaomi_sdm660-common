@@ -37,29 +37,24 @@ vendor/lib/rfsa/adsp/libvpp_svc_skel.so|2da97f61c1d14f1f9a38aecd8ab89a1f6fa8d991
 vendor/lib/rfsa/adsp/dirac_resource.dar|1e5c52f2a41bdbec4f38ebdcb83d4fc73edc0ec9
 vendor/lib/rfsa/adsp/libdirac-capiv2.so|e56031dfaee094d5267e3cc16625cfceaa07cc27
 
-# Audio - from LA.QSSI.14.0.r1-16400-qssi.0
-system_ext/bin/qxrsplitauxservice|916af06b278375a3e1f6d5be76df2952b15843b3
+# Audio - from LA.QSSI.15.0.r1-10500-qssi.0
+system_ext/bin/qxrsplitauxservice|890ae25d11d9caf03342440c93681b2e08db3f39
 system_ext/etc/init/sxrauxd_ext.rc|fbaa12e37788fa17524fec02b842902d4e3a6f53
 system_ext/etc/seccomp_policy/sxraux-arm.policy|0508c0d7bf078a26f4c37c4eac58b44b4b21de3f
--system_ext/framework/vendor.qti.voiceprint-V1.0-java.jar|6698f97a70e9384b05745ceeee27310ceabbd557
-system_ext/lib/libbinauralrenderer_wrapper.qti.so|fbd9b0e4401a7856805cfe211e629d3188a48611
-system_ext/lib/libhoaeffects.qti.so|76c48fe9128023de69e2ebae6c54f6b1328b68c3
-system_ext/lib/libhoaeffects_csim.so|ac11a15dcc7ac15238c8d0181ec1dc3f52f4e116
-system_ext/lib/liblsmclient.so|7a484ff6280ccb6bf28118c4b8caa745261dfc20
-system_ext/lib/libvr_amb_engine.so|252f62519e61a17b2a1d42c0da6647f921efaeef
-system_ext/lib/libvr_object_engine.so|560ab8f65a65d9fc264591fec9090b3cb8d58e14
-system_ext/lib/vendor.qti.hardware.audiohalext@1.0.so|20540c45cbaa9589ee91033fd2fbb68d0cfd046a
-system_ext/lib/vendor.qti.voiceprint@1.0.so|b26078b049d72ef22a7c3cd788fa2f0b50967a79
-system_ext/lib64/libbinauralrenderer_wrapper.qti.so|218658f5dd2298648963dcf904ffd6036246c2e2
-system_ext/lib64/libhoaeffects.qti.so|0fd1caff73ff953dd70370feb71bfade9490b08c
-system_ext/lib64/libhoaeffects_csim.so|a41f26ebb359d43f792737e6657a05eaefd9991c
-system_ext/lib64/liblsmclient.so|609206029513543c1b0b10b30f43ad76769bde27
-system_ext/lib64/libqxrsplitauxservice.qti.so|f5b68b29c7f883c8125d49d2dd07dac48881b24d
-system_ext/lib64/libvr_amb_engine.so|d8ddc2bd6c33c30b32b17fa4099ee6e428664ff6
-system_ext/lib64/libvr_object_engine.so|a4a196590bc88ab564fcf25a3b1f12c6771389ca
-system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so|3c28891cd28f9c00540661902073979d16fa9b4c
-system_ext/lib64/vendor.qti.hardware.qxr-V1-ndk_platform.so|dd9c3c79013092c0f2e276e828e230789d0d173e
-system_ext/lib64/vendor.qti.voiceprint@1.0.so|ea86536d42e8a63df5698278a373bb5cf051f547
+system_ext/lib/libbinauralrenderer_wrapper.qti.so|03495a4640b506e0511e4d9df007fc6901ac4c99
+system_ext/lib/libhoaeffects.qti.so|ffcd5bb7d93a7bbdc9da3495804280e373f7c91d
+system_ext/lib/libhoaeffects_csim.so|b2922de1a356849b58ff0c3e73c8c076dcffe5dd
+system_ext/lib/liblsmclient.so|5e4013201d5358fdcd15dee13bd9185fc2ebe520
+system_ext/lib/libvr_amb_engine.so|69340f3af668f39a3f2b4f9314ca49ef8de7de2b
+system_ext/lib/libvr_object_engine.so|0563806dcb9f74461f030e23256eb2de9b6fe155
+system_ext/lib64/libbinauralrenderer_wrapper.qti.so|2172fcf906b4c3155450d3c3a37d6586c16f0901
+system_ext/lib64/libhoaeffects.qti.so|fda85e1b425059f6be8f7a8541b702230a9e5c65
+system_ext/lib64/libhoaeffects_csim.so|3eca122613a3af345493a242b6839466dd472ac0
+system_ext/lib64/liblsmclient.so|6cd379c9112609a3bc4eef98a1ceff8ce40be22e
+system_ext/lib64/libqxrsplitauxservice.qti.so|d246b337379710e3e3e6ae205d4d77caf48ed3f1
+system_ext/lib64/libvr_amb_engine.so|acb1fd360626b9f237adef0551d5ea31af58f347
+system_ext/lib64/libvr_object_engine.so|8e53cccb6e2c56032d5388f4151d29123d63f51c
+system_ext/lib64/vendor.qti.hardware.qxr-V1-ndk_platform.so|baaa2cd20be6c86aff7734e9cbd13dbd10ba6177
 
 # Audio - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
 vendor/bin/audioflacapp|7c1af58ff412fe328005d0dc8e1a06b0fbde19e4
