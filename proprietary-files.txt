@@ -655,11 +655,11 @@ vendor/lib64/libkeymasterutils.so|395f755efdfa2d4a945a89cee307996ab86222a6
 vendor/lib64/libqcbor.so|bb32684536eb00f0ae35f3bc900aeb8cc349ccef
 vendor/lib64/libqtikeymaster4.so|a49dd158783b79edaaeb7de7dfe4a1ff3f8ad118
 
-# Listen - from LA.QSSI.14.0.r1-10000.01-qssi.0
-system_ext/lib/liblistenjni.qti.so|00c2e22a02d96ace1a5c55447497c47c43d468e1
-system_ext/lib/liblistensoundmodel2.qti.so|d1b0ebd11cbeac9b9ac44b56c070a1df4406c0a3
-system_ext/lib64/liblistenjni.qti.so|f7a0504c2b52a34976f59507aa0c361e75ea9e77
-system_ext/lib64/liblistensoundmodel2.qti.so|c13687f58b5f42d928765aaf844ed95cf38b9b1f
+# Listen - from LA.QSSI.15.0.r1-10500-qssi.0
+system_ext/lib/liblistenjni.qti.so|8b3d11dc0b652cd9363213e477a6ce2eafc2c8f9
+system_ext/lib/liblistensoundmodel2.qti.so|b40f06bee2da804dc40c8a12bd5368e1dd91755f
+system_ext/lib64/liblistenjni.qti.so|56721d463cb9377ab55b6d76e0e530415daf3de1
+system_ext/lib64/liblistensoundmodel2.qti.so|8c49053db48329225e2a4144f3f11bbabc59484f
 
 # Listen - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
 vendor/lib/libadpcmdec.so|e93004a25f718447c0c9ea13f57ab98abdb04077
