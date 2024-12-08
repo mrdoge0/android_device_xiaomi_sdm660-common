@@ -641,12 +641,6 @@ vendor/lib64/libtinyxml2_1.so|6d602dfd9df770ee6ecdbe0e9d98b8951dd8483d
 vendor/lib/hw/vulkan.adreno.so|c9243672f1543fddb5313803a841b527055cd4a5
 vendor/lib64/hw/vulkan.adreno.so|6eb971883930dec2bafd209f1c503ac81d77e836
 
-# HotwordEnrollment - from blueline-user 12 SP1A.210812.016.C2 8618562 release-keys
--product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk|7161356d39a17b52e4464f598bc106fc88566007
--product/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk|a329a2d5fe984cb016c9cd764d97ce01bd42ff9a
-system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
-system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be426a66be09dd08ab9c1921327ef0
-
 # IRQ balance - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
 vendor/bin/msm_irqbalance|9e39bffcabe1dfd1d1a4d004171c7b01179f3ca8
 
