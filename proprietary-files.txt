@@ -667,7 +667,6 @@ system_ext/lib64/liblistenjni.qti.so|f7a0504c2b52a34976f59507aa0c361e75ea9e77
 system_ext/lib64/liblistensoundmodel2.qti.so|c13687f58b5f42d928765aaf844ed95cf38b9b1f
 
 # Listen - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
-vendor/lib/hw/sound_trigger.primary.sdm660.so|36bfc9aefb05c4a15c3ab86c863b49167241d2d3
 vendor/lib/libadpcmdec.so|e93004a25f718447c0c9ea13f57ab98abdb04077
 vendor/lib/libgcs-calwrapper.so|774922d73d1ca2c520168b45dcca69ea0fdef40f
 vendor/lib/libgcs-ipc.so|ede31a7e061e9d2d182da006088aebd3ec6c5101
@@ -675,7 +674,6 @@ vendor/lib/libgcs-osal.so|7d019b8c28f49bc7ae571bb033483b425d70485e
 vendor/lib/libgcs.so|7cad77da6218d3ebc10d02ae16887e9828be098a
 vendor/lib/libmulawdec.so|940e646054ba3ea5ebf068e6ef83d3bedbab9ea4
 vendor/lib/libsmwrapper.so|eee5f95c2606a564c91cd70083e5e66328c0fb6c
-vendor/lib64/hw/sound_trigger.primary.sdm660.so|fbed0dba6a56bf7de3a9599210bc1885b47df4cc
 vendor/lib64/libgcs-calwrapper.so|851adb2ace8d1c8b16ecae08fbcacb3bd2d87bd3
 vendor/lib64/libgcs-ipc.so|85269967df043ff3aaaa62347b161362d9df39a3
 vendor/lib64/libgcs-osal.so|158586fa96dc726ae661767ecaa08b28d8ea1bf8
