@@ -119,7 +119,6 @@ TARGET_BOOTANIMATION_SIZE := 1080p
 
 # Camera
 PRODUCT_PACKAGES += \
-    Aperture \
     android.hardware.camera.device@3.5 \
     android.hardware.camera.provider@2.4-impl \
     android.hardware.camera.provider@2.4-service \
@@ -533,7 +532,6 @@ PRODUCT_PACKAGES += \
 
 # RIL JAR
 PRODUCT_BOOT_JARS += \
-    telephony-ext \
     xiaomi-telephony-stub
 
 # Seccomp policy
@@ -653,6 +651,6 @@ endif
 PRODUCT_PACKAGES += \
     DeviceSettings
 
-# Sign build
+# Sign build (you can't on AOSP)
 -include vendor/lineage-priv/keys/keys.mk
 
