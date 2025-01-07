@@ -12,6 +12,7 @@ Android | 8.1.0
 
 ## Notes:
  - Depends on: android_packages_resources_devicesettings from LineageOS
+ - Depends on: android_device_lineage_sepolicy from LineageOS
  - Depends on: LA.QSSI.11.0.r1-09100-qssi.0 tag for vendor_codeaurora_telephony
  - Depends on: LA.UM.9.6.2.r1-03600-89xx.0 tag for GPS and WFD
 
